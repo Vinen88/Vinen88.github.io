@@ -1,0 +1,2 @@
+1. quick and easy to set up. Less customization. Security flaws are more evident but could be fixed quicker?
+2. https://vinen88.github.io/
