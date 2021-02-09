@@ -1,0 +1,12 @@
+html, body {
+    margin: 0;
+    border: 0;
+    font-size: 100%;
+    background-color: #361f36;
+    color: #019e0e;
+  }
+  h1{
+      background-color: rgb(183, 0, 255);
+      color: cornflowerblue;
+  }
+  
